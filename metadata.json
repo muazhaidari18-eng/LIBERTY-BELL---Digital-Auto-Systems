@@ -1,0 +1,6 @@
+{
+  "name": "Liberty Bell Digital - Auto Repair",
+  "description": "High-converting ad landing page for auto repair shops and mechanics featuring AI Receptionist call handling and strategy call booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
